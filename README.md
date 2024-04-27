@@ -107,7 +107,8 @@ print(f"Input:{np.array([1, 0])}, Predicted: {predict_matrix(np.array([1, 0]), w
 print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w)}")
 ```
 <H3>OUTPUT:</H3>
-![image](https://github.com/SandhiyaR1/Ex-5--NN/assets/113497571/b7dfb7dc-d8fb-4b3a-8267-32d3c5c81349)
+
+![image](https://github.com/SandhiyaR1/Ex-5--NN/assets/113497571/2816bfb5-bf33-43b7-9378-b3f7713bf15e)
 
 
 ![image](https://github.com/SandhiyaR1/Ex-5--NN/assets/113497571/477bc442-8e50-4f4a-ba18-fa048955631a)
